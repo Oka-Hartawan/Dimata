@@ -1,0 +1,36 @@
+body{
+    background-color:white;
+}
+
+table{
+    margin: 0% auto;
+    width: 800px;
+    background-color: darkorange;
+    font-size: 19px;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 0px;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+label{
+    font-weight: bold;
+}
+hr{
+    margin: 0% auto;
+    width: 793px;
+    padding: 3px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
